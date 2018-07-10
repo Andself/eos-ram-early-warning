@@ -1,0 +1,16 @@
+{
+  "name": "eos-ram-early-warning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/index.js"
+  },
+  "author": "Andself.Chen",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-schedule": "^1.3.0"
+  }
+}
